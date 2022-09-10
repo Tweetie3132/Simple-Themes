@@ -1,1 +1,1 @@
-# st
+# site for simple themes
